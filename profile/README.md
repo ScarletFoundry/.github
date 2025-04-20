@@ -45,7 +45,7 @@ We're looking for contributors to help us build and improve Veridia! If you're i
 
 Our projects are licensed under different terms, depending on the type of content:
 
-*   **Software:** All software projects under Scarlet Foundry are licensed under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes, as long as you include the original copyright notice and the license text.  **The full MIT License text can be found in the `LICENSE` file in the root of this repository.**
+*   **Software:** All software projects under Scarlet Foundry are licensed under the [MIT License](../LICENSE). This means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes, as long as you include the original copyright notice and the license text.  **The full MIT License text can be found in the `LICENSE` file in the root of this repository.**
 
 *   **Writing and Creative Content:** All writing, stories, and other creative content are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). This means you are free to share and adapt the work for non-commercial purposes, as long as you give appropriate credit. The specific license terms will always be indicated on each individual work.
 
