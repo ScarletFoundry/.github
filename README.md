@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ScarletFoundry/.github/main/logo.png" alt="Scarlet Foundry Logo" width="200px" height="auto">
+</p>
+
 # Scarlet Foundry
 
 **Forging Worlds, One Line at a Time.**
