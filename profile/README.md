@@ -27,6 +27,7 @@ Our primary project, **Veridia**, uses technologies like Python (for AI/ML), Jav
 ## Projects (Under Development)
 
 *   **Veridia:** An AI-powered writing assistant designed to help writers at every stage of the writing process. Veridia helps you unlock your creative potential. (More details coming soon!)
+*   **The Starborn Saga** A new writing project and the first test for Veridia, The first sequel is on the way. We will published in later this year.
 
 ## Get Involved
 
