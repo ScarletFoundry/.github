@@ -45,7 +45,7 @@ Want to help? We need people for:
 
 ## License
 
-*   **Software:** [MIT License](../LICENSE) (Free to use, change, share, with credit).
+*   **Software:** [MIT License](LICENSE) (Free to use, change, share, with credit).
 *   **Writing:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/) (Share and change for non-commercial use, with credit).
 
 ---
